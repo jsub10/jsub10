@@ -2,7 +2,7 @@
 - 👀 I’m interested in modeling, simulation, and inference
 - 🌱 I’m currently learning about complex systems
 - 💞️ I’m looking to collaborate on lanaguage and graph analytics
-- 📫 How to reach me: brannfinn@gmail.com
+- 📫 How to reach me: jsub@gartner.com
 
 <!---
 jsub10/jsub10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
