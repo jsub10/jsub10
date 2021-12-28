@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jsub10
 - 👀 I’m interested in modeling, simulation, and inference
 - 🌱 I’m currently learning about complex systems
-- 💞️ I’m looking to collaborate on lanaguage and graph analytics
+- 💞️ I’m looking to collaborate on language and graph analytics
 - 📫 How to reach me: jsub@gartner.com
 
 <!---
